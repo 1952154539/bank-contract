@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# See https://book.getfoundry.sh/reference/config/ for more options.
